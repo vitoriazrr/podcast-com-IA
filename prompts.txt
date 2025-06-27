@@ -1,0 +1,3 @@
+Prompt utilizado para criação do episódio do podcast:
+
+"Chat, preciso de um podcast que aborde sobre a evolução da tecnologia e como através dela novas portas estão se abrindo, principalmente em volta da IA, que a nova geração está sendo inserida nesse meio, e como cursos em tecnologia estão sendo a nova onda da atualidade, cite exemplos da atualidade sobre o assunto, seja sucinto, de uma forma que toda faixa etária consiga entender"
