@@ -34,9 +34,11 @@ Este episódio fala de forma simples e acessível sobre como a tecnologia tem ev
 
 ---
 
-## 🎧 Ouça o episódio
 
-[🔊 Clique aqui para ouvir o áudio](Audio%20podcast_175108392...)
+## 🎧 Ouça o Episódio
+
+[▶️ Clique aqui para ouvir](episodio1.mp3)
+
 
 ---
 
