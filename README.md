@@ -1,7 +1,7 @@
 ![Capa do Podcast](Copilot_20250628_005828.png)
 
 <p align="center">
-  <img src="capa_podcast.png" alt="Capa do Podcast" width="400">
+  
 </p>
 
 # 🎙️ A transformação tecnológica nos últimos anos
