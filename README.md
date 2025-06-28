@@ -1,5 +1,10 @@
 ![Capa do Podcast](Copilot_20250628_005828.png)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/vitoriazrr/podcast-com-IA)
+![GitHub last commit](https://img.shields.io/github/last-commit/vitoriazrr/podcast-com-IA)
+![License](https://img.shields.io/github/license/vitoriazrr/podcast-com-IA)
+
+
 <p align="center">
   
 </p>
