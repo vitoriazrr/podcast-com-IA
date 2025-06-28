@@ -63,3 +63,16 @@ Projeto criado por **Vitória Santos**
 Curso: *Criando um Podcast com IAs Generativas* – [DIO](https://www.dio.me)
 
 ---
+---
+---
+
+## Onde encontrar o áudio do podcast
+## Sobre o Podcast
+
+Este repositório contém o projeto do podcast sobre a evolução da tecnologia e inteligência artificial, feito para o curso da DIO.
+
+### Arquivos do Podcast
+
+O áudio do podcast está disponível na pasta [`audio`](./audio) deste repositório.
+
+Para ouvir, faça o download do arquivo `episodio1.mp3` (ou o nome do seu arquivo) clicando [aqui](./audio/episodio1.mp3).
